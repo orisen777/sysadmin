@@ -1,7 +1,5 @@
 #!/bin/bash
-
 set -e  # 遇到错误立即退出
-
 # 配置变量 (按需修改)
 DOMAIN="auth.yourdomain.com"
 EMAIL="admin@yourdomain.com"
